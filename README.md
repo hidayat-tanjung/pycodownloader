@@ -5,7 +5,7 @@ Kamu bisa menikmatinya secara gratis dan aman tanpa takut terkena virus
 # requirement 
 instal request
 ```console
-pip install pyscreenshot
+pip install requests
 ```
 
 # run tools
